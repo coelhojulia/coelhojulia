@@ -18,8 +18,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&size=20)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&size=20)](#)
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white&size=20)](#)
-<br>
-
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)](#)
 [![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black&size=20)](#)
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white&size=20)](#)
@@ -30,7 +28,6 @@
 **Versionamento de Código e IDE's**
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-1E1E1E?logo=github&logoColor=white&style=flat-square)&nbsp; ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)&nbsp; ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=flat-square)&nbsp; ![Figma](https://img.shields.io/badge/-Figma-1E1E1E?logo=figma&logoColor=white&style=flat-square)
-
 
 <br>
 
