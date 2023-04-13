@@ -1,7 +1,5 @@
 ## **Sobre mim**
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções para a web.
 - 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://vemprafam.com.br/">FAM</a>.
 - 💼 &nbsp; Buscando estágio em Desenvolvimento Web.
