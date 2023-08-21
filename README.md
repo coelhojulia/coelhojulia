@@ -1,9 +1,8 @@
 ## **Sobre mim**
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções para a web.
-- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://vemprafam.com.br/">FAM</a>.
-- 💼 &nbsp; Buscando estágio em Desenvolvimento Web.
-- 🌱 &nbsp; Aprendendo mais sobre Desenvolvimento Web e Análise de Dados.
+- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na FAM.
+- 🌱 &nbsp; Estagiária em Operações Educacionais na <a href="https://escoladanuvem.org/">Escola da Nuvem</a>.
 
 ## **Minhas Skills**
 
@@ -18,11 +17,6 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black&size=20)](#)
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white&size=20)](#)
 [![Amazon AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white&size=20)](#)
-
-**Versionamento de Código e IDE's**
-
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-1E1E1E?logo=github&logoColor=white&style=flat-square)&nbsp; ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)&nbsp; ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=flat-square)&nbsp; ![Figma](https://img.shields.io/badge/-Figma-1E1E1E?logo=figma&logoColor=white&style=flat-square)
-
 
 ## **Entre em contato!**
 <p align="left">
