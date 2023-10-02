@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções para a web.
 - 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na FAM.
-- 🌱 &nbsp; Estagiária em Operações Educacionais na <a href="https://escoladanuvem.org/">Escola da Nuvem</a>.
+- 🌱 &nbsp; Estagiária na <a href="https://escoladanuvem.org/">Escola da Nuvem</a>.
 
 ## **Minhas Skills**
 
